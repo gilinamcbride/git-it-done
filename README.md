@@ -13,9 +13,11 @@ This application uses GitHub's API to search for open source projects with open 
 
 ## Usage
 
-Open website and search by Github username, or search by topic. After the search the app shows repositories for that search and you can click on the repository to see the open issues. 
+Open website and search by Github username, or search by topic. After the search the app shows repositories for that search and you can click on the repository to see the open issues.
 
 ## Application
+
+![screenshot](./assets/images/screenshot.png)
 
 [Link to Deployed Application](https://gilinamcbride.github.io/git-it-done/)
 
